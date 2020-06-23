@@ -1,0 +1,46 @@
+2020-Jun-23 01:42:01,500 [main] com.ajioweb.keyword.Keyword 
+  INFO  chrome is opened!! 
+2020-Jun-23 01:42:05,667 [main] com.ajioweb.keyword.Keyword 
+  INFO  Maximized Browser Window!!
+2020-Jun-23 01:42:12,476 [main] com.ajioweb.keyword.Keyword 
+  INFO  https://www.ajio.com is launched!!
+2020-Jun-23 01:42:13,923 [main] com.ajioweb.keyword.Keyword 
+  INFO  Deleted All Cookies!!
+2020-Jun-23 01:42:13,931 [main] com.ajioweb.keyword.Keyword 
+  INFO  20SECONDS Page load timeout  is applied!!
+2020-Jun-23 01:42:13,939 [main] com.ajioweb.keyword.Keyword 
+  INFO  20SECONDS Implicit Wait is applied!!
+2020-Jun-23 01:42:14,054 [main] com.ajioweb.pagetest.HomepagePageTest 
+  INFO  Shop women Link is visible
+2020-Jun-23 01:42:14,302 [main] com.ajioweb.keyword.Keyword 
+  INFO  Current browser window is Closed!!
+2020-Jun-23 01:42:20,180 [main] com.ajioweb.keyword.Keyword 
+  INFO  chrome is opened!! 
+2020-Jun-23 01:42:24,413 [main] com.ajioweb.keyword.Keyword 
+  INFO  Maximized Browser Window!!
+2020-Jun-23 01:42:29,945 [main] com.ajioweb.keyword.Keyword 
+  INFO  https://www.ajio.com is launched!!
+2020-Jun-23 01:42:32,066 [main] com.ajioweb.keyword.Keyword 
+  INFO  Deleted All Cookies!!
+2020-Jun-23 01:42:32,070 [main] com.ajioweb.keyword.Keyword 
+  INFO  20SECONDS Page load timeout  is applied!!
+2020-Jun-23 01:42:32,074 [main] com.ajioweb.keyword.Keyword 
+  INFO  20SECONDS Implicit Wait is applied!!
+2020-Jun-23 01:42:32,725 [main] com.ajioweb.keyword.Keyword 
+  INFO  Current browser window is Closed!!
+2020-Jun-23 01:42:38,440 [main] com.ajioweb.keyword.Keyword 
+  INFO  chrome is opened!! 
+2020-Jun-23 01:42:42,590 [main] com.ajioweb.keyword.Keyword 
+  INFO  Maximized Browser Window!!
+2020-Jun-23 01:42:48,542 [main] com.ajioweb.keyword.Keyword 
+  INFO  https://www.ajio.com is launched!!
+2020-Jun-23 01:42:51,880 [main] com.ajioweb.keyword.Keyword 
+  INFO  Deleted All Cookies!!
+2020-Jun-23 01:42:51,884 [main] com.ajioweb.keyword.Keyword 
+  INFO  20SECONDS Page load timeout  is applied!!
+2020-Jun-23 01:42:51,888 [main] com.ajioweb.keyword.Keyword 
+  INFO  20SECONDS Implicit Wait is applied!!
+2020-Jun-23 01:42:51,927 [main] com.ajioweb.pagetest.HomepagePageTest 
+  INFO  signIn_JoinAjio  Link is visible
+2020-Jun-23 01:42:52,083 [main] com.ajioweb.keyword.Keyword 
+  INFO  Current browser window is Closed!!

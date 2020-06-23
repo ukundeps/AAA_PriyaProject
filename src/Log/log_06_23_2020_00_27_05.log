@@ -1,0 +1,32 @@
+2020-Jun-23 00:27:05,099 [main] com.ajioweb.keyword.Keyword 
+  INFO  chrome is opened!! 
+2020-Jun-23 00:27:09,281 [main] com.ajioweb.keyword.Keyword 
+  INFO  Maximized Browser Window!!
+2020-Jun-23 00:27:17,317 [main] com.ajioweb.keyword.Keyword 
+  INFO  https://www.ajio.com is launched!!
+2020-Jun-23 00:27:19,943 [main] com.ajioweb.keyword.Keyword 
+  INFO  Deleted All Cookies!!
+2020-Jun-23 00:27:19,951 [main] com.ajioweb.keyword.Keyword 
+  INFO  20SECONDS Page load timeout  is applied!!
+2020-Jun-23 00:27:19,975 [main] com.ajioweb.keyword.Keyword 
+  INFO  20SECONDS Implicit Wait is applied!!
+2020-Jun-23 00:27:20,066 [main] com.ajioweb.pagetest.HomepagePageTest 
+  INFO  Shop kids  Link is visible
+2020-Jun-23 00:27:24,269 [main] com.ajioweb.keyword.Keyword 
+  INFO  Current browser window is Closed!!
+2020-Jun-23 00:27:30,613 [main] com.ajioweb.keyword.Keyword 
+  INFO  chrome is opened!! 
+2020-Jun-23 00:27:34,818 [main] com.ajioweb.keyword.Keyword 
+  INFO  Maximized Browser Window!!
+2020-Jun-23 00:27:42,863 [main] com.ajioweb.keyword.Keyword 
+  INFO  https://www.ajio.com is launched!!
+2020-Jun-23 00:27:45,343 [main] com.ajioweb.keyword.Keyword 
+  INFO  Deleted All Cookies!!
+2020-Jun-23 00:27:45,355 [main] com.ajioweb.keyword.Keyword 
+  INFO  20SECONDS Page load timeout  is applied!!
+2020-Jun-23 00:27:45,371 [main] com.ajioweb.keyword.Keyword 
+  INFO  20SECONDS Implicit Wait is applied!!
+2020-Jun-23 00:27:53,020 [main] com.ajioweb.keyword.Keyword 
+  INFO  Current browser window is Closed!!
+2020-Jun-23 00:27:58,855 [main] com.ajioweb.keyword.Keyword 
+  INFO  chrome is opened!! 

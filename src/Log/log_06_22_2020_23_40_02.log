@@ -1,0 +1,42 @@
+2020-Jun-22 23:40:02,871 [main] com.ajioweb.keyword.Keyword 
+  INFO  https://www.ajio.com is launched!!
+2020-Jun-22 23:40:05,090 [main] com.ajioweb.keyword.Keyword 
+  INFO  Deleted All Cookies!!
+2020-Jun-22 23:40:05,098 [main] com.ajioweb.keyword.Keyword 
+  INFO  20SECONDS Page load timeout  is applied!!
+2020-Jun-22 23:40:05,106 [main] com.ajioweb.keyword.Keyword 
+  INFO  20SECONDS Implicit Wait is applied!!
+2020-Jun-22 23:40:08,487 [main] com.ajioweb.keyword.Keyword 
+  INFO  Current browser window is Closed!!
+2020-Jun-22 23:40:14,325 [main] com.ajioweb.keyword.Keyword 
+  INFO  chrome is opened!! 
+2020-Jun-22 23:40:18,523 [main] com.ajioweb.keyword.Keyword 
+  INFO  Maximized Browser Window!!
+2020-Jun-22 23:40:26,099 [main] com.ajioweb.keyword.Keyword 
+  INFO  https://www.ajio.com is launched!!
+2020-Jun-22 23:40:29,305 [main] com.ajioweb.keyword.Keyword 
+  INFO  Deleted All Cookies!!
+2020-Jun-22 23:40:29,309 [main] com.ajioweb.keyword.Keyword 
+  INFO  20SECONDS Page load timeout  is applied!!
+2020-Jun-22 23:40:29,313 [main] com.ajioweb.keyword.Keyword 
+  INFO  20SECONDS Implicit Wait is applied!!
+2020-Jun-22 23:40:29,357 [main] com.ajioweb.pagetest.HomepagePageTest 
+  INFO  Shop women Link is visible
+2020-Jun-22 23:40:33,498 [main] com.ajioweb.keyword.Keyword 
+  INFO  Current browser window is Closed!!
+2020-Jun-22 23:40:40,066 [main] com.ajioweb.keyword.Keyword 
+  INFO  chrome is opened!! 
+2020-Jun-22 23:40:44,241 [main] com.ajioweb.keyword.Keyword 
+  INFO  Maximized Browser Window!!
+2020-Jun-22 23:40:51,142 [main] com.ajioweb.keyword.Keyword 
+  INFO  https://www.ajio.com is launched!!
+2020-Jun-22 23:40:53,173 [main] com.ajioweb.keyword.Keyword 
+  INFO  Deleted All Cookies!!
+2020-Jun-22 23:40:53,181 [main] com.ajioweb.keyword.Keyword 
+  INFO  20SECONDS Page load timeout  is applied!!
+2020-Jun-22 23:40:53,189 [main] com.ajioweb.keyword.Keyword 
+  INFO  20SECONDS Implicit Wait is applied!!
+2020-Jun-22 23:40:53,569 [main] com.ajioweb.keyword.Keyword 
+  INFO  Current browser window is Closed!!
+2020-Jun-22 23:40:59,541 [main] com.ajioweb.keyword.Keyword 
+  INFO  chrome is opened!! 

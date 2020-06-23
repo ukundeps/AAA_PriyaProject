@@ -1,0 +1,8 @@
+2020-Jun-23 02:39:00,319 [main] com.ajioweb.keyword.Keyword 
+  INFO  20SECONDS Explicit wait is applied!!
+2020-Jun-23 02:39:07,011 [main] com.ajioweb.keyword.Keyword 
+  INFO  20SECONDS Explicit wait is applied!!
+2020-Jun-23 02:39:27,931 [main] com.ajioweb.keyword.Keyword 
+  INFO  Screenshot taken Successfully!!
+2020-Jun-23 02:39:28,661 [main] com.ajioweb.extentReport.ScreenShot 
+  INFO  Screenshot taken Successfully!!

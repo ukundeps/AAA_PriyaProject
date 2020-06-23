@@ -1,0 +1,6 @@
+2020-Jun-23 02:33:00,400 [main] com.ajioweb.keyword.Keyword 
+  INFO  20SECONDS Explicit wait is applied!!
+2020-Jun-23 02:33:06,780 [main] com.ajioweb.pagetest.SignOutPageTest 
+  INFO  Redirected to My Account Page
+2020-Jun-23 02:33:09,725 [main] com.ajioweb.keyword.Keyword 
+  INFO  Current browser window is Closed!!

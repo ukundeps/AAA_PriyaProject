@@ -1,0 +1,12 @@
+2020-Jun-23 02:31:09,955 [main] com.ajioweb.extentReport.ScreenShot 
+  INFO  Screenshot taken Successfully!!
+2020-Jun-23 02:31:11,432 [main] com.ajioweb.keyword.Keyword 
+  INFO  Current browser window is Closed!!
+2020-Jun-23 02:31:17,320 [main] com.ajioweb.keyword.Keyword 
+  INFO  chrome is opened!! 
+2020-Jun-23 02:31:41,510 [main] com.ajioweb.keyword.Keyword 
+  INFO  Maximized Browser Window!!
+2020-Jun-23 02:31:51,590 [main] com.ajioweb.keyword.Keyword 
+  INFO  chrome is opened!! 
+2020-Jun-23 02:31:55,787 [main] com.ajioweb.keyword.Keyword 
+  INFO  Maximized Browser Window!!
